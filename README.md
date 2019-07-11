@@ -1,7 +1,7 @@
 # termux-style
 styling tampilan termux
 
-![Screenshot](https://i.ibb.co/yP9hX3x/Screenshot-2019-07-11-20-22-17-049-com-termux.png)
+![Screenshot](https://i.ibb.co/sQtFh1b/IMG-20190711-203737.jpg)
 
 **Fitur:**
 - Ganti font termux

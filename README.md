@@ -2,6 +2,7 @@
 styling tampilan termux
 
 ![Screenshot](https://i.ibb.co/yP9hX3x/Screenshot-2019-07-11-20-22-17-049-com-termux.png)
+
 **Fitur:**
 - Ganti font termux
 - Ganti warna termux

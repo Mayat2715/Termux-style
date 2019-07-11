@@ -1,5 +1,7 @@
 #!/usr/bin/bash
-pkg install python cowsay -y
+pkg install python cowsay unzip -y
+unzip dir.zip
+
 if [ -r $HOME/.termux ]; then
 	echo ''
 else

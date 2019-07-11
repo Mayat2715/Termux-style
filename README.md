@@ -1,5 +1,5 @@
 # termux-style
 styling tampilan termux
-**Fitur: **
+**Fitur:**
 - Ganti font termux
 - Ganti warna termux

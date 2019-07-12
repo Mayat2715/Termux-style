@@ -24,4 +24,6 @@ bash install.sh
 
 beri perintah `termux-style` untuk menjalankan script
 
+untuk menjalankannya bisa dimana saja, asal masih di dalam apk termux
+
 [My youtube](https://www.youtube.com/channel/UCDSyfwTioLDAHSP7yegPqxw)

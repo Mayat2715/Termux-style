@@ -7,3 +7,6 @@ if [ -r $HOME/.termux ]; then
 else
 	mkdir $HOME/.termux
 fi
+echo -e "cd $HOME/termux-style\npython main.py">termux-style
+chmod +x termux-style
+mv termux-style $PREFIX/bin/termux-style

@@ -22,6 +22,6 @@ chmod +x install.sh
 bash install.sh
 ```
 
-beri perintah `python main.py` untuk menjalankan script
+beri perintah `termux-style` untuk menjalankan script
 
 [My youtube](https://www.youtube.com/channel/UCDSyfwTioLDAHSP7yegPqxw)

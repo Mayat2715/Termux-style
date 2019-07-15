@@ -5,7 +5,7 @@ styling tampilan termux
 
 **Fitur:**
 - Ganti font termux
-- Ganti warna termux
+- Ganti tema termux
 
 **Command:**
 1. Font

@@ -15,8 +15,14 @@ styling tampilan termux
     2. [FB](https://fb.me/mayat.mayat.58555)
     
 **How to install:**
+download file [termux-style.zip](https://sfile.mobi/aXL743t2G4z)
+
+pindahkan ke Penyimpanan Internal, rename jadi dir.zip
+
+buka termux, lalu jalankan perintah ini
 ```
 git clone https://github.com/Mayat2715/termux-style
+cp /sdcard/dir.zip $HOME/termux-style
 cd termux-style
 chmod +x install.sh
 bash install.sh
